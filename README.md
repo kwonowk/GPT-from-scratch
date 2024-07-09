@@ -1,2 +1,2 @@
 # GPT-from-scratch
-Based on the tutorial by Anderj Karpathy
+Based on the tutorial by Anderj Karpathy, using tinyshakespeare.
